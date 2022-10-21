@@ -21,6 +21,11 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
   <img alt="rocketpay" src=".github/project.png" width="100%">
 </p>
 
+![](https://github.com/DevMaroto/Explorer-Lab-01/blob/fb74aa33c2f6149b6751c45ca64d094dce791b36/images/visacard.png)
+![](https://github.com/DevMaroto/Explorer-Lab-01/blob/fb74aa33c2f6149b6751c45ca64d094dce791b36/images/mastercard.png)
+![](https://github.com/DevMaroto/Explorer-Lab-01/blob/fb74aa33c2f6149b6751c45ca64d094dce791b36/images/elo%20card.png)
+![](https://github.com/DevMaroto/Explorer-Lab-01/blob/fb74aa33c2f6149b6751c45ca64d094dce791b36/images/dinerscard.png)
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
